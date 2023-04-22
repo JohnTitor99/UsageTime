@@ -1,0 +1,9 @@
+                  Name     Value
+      Usage time Total 809:20:13
+   Usage time per Week   3:09:00
+  Usage time per Month  39:29:10
+   Usage time per Year 785:06:07
+    Average time Total   2:09:08
+ Average time per Week   0:27:00
+Average time per Month   1:18:58
+ Average time per Year   2:09:03

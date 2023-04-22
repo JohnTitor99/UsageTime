@@ -1,7 +1,7 @@
 
 # Usage Time of any app or game
 
-With this you can monitor how much time you spend on using any app or game on your pc. You can see usage time on any day; total hours you've spent; average usage time and more.
+With this you can monitor how much time you spend on using any app or game on your pc. You can see usage time on any day, total hours you've spent, average usage time and more.
 
 ![Screenshot](screenshot1.png)
 ## General Info
